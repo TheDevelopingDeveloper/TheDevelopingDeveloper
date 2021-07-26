@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheDevelopingDeveloper
+- 👀 Interested in: 3d design, as well as Lua
+- 🌱 Currently learning: Python
